@@ -38,7 +38,7 @@ Once I did that, I got **3 additional tasks** to complete within the next **15 d
    8. Comment.
    9. Delete Post/Comment
 
-![Screenshot_20230729_095657](image/README/Screenshot_20230729_095657.png)
+
 
 
 ### Features of this Website
