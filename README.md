@@ -1,6 +1,6 @@
 ## This Repository is my Internship- MERN Stack project done at [NullClass](https://nullclass.com/).
 
-[Click here](https://stack-overflow-clone-namasivaayam-l.netlify.app/), this will take you to my live website.
+[Click here](https://rococo-palmier-cbbc20.netlify.app), this will take you to my live website.
 
 My first task in my internship was to clone the stackoverflow website, within **15 days**.
 
